@@ -1,1 +1,29 @@
+*/
+fun main(){
+   
+println("miguel: o seu esquizofrenico") 
+println("iago: te pai, o seu rato com ebola")
+println("miguel: sua mãe, bora joga bola seu merda")
+println("iago: tá, me espera o seu porra")
+println("miguel: não, você é corintiano")
+println("iago: teu ku, sou um avião")
+println("???: o seus porra cala a boca")
+println("miguel: quem é tu sua puta ")
+println("???: eu sou, zé miudo ")
+println("zé miudo: meu nobre você ta bem ")
+println("iago: hahahhahah, tchau o sous pobre vou jagar")
+println("miguel: me espera sua puta")
 
+
+//Variáveis - armazenam valores, dados, informações
+
+//val - não mutável - não podemos alterar seu valor
+//var - mutável - podemos alterar seu valor
+//
+//Tipos de variáveis:
+//
+//
+
+
+}
+*/
