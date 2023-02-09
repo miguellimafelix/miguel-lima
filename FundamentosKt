@@ -27,3 +27,66 @@ println("miguel: me espera sua puta")
 
 }
 */
+fun main(){
+    //Típos de variáveis:
+    //
+    //String - armazena valores de tipo texto - dentro de ""
+    //Int - armazena números inteiros
+    //Float - armazena números reais (no geral) - necessita de um f no valor
+    //Double - armazena números quebrados(de forma arredondada)
+    //Long - armazena números longos
+    //Boolean - verdadeiro ou falso 
+    //
+/* 
+    var cr7 = "Crintiano Ronaldo"	
+    var champions = 5 
+    var altura = 1.87 
+    
+    //Concatenação
+    
+    print("O nome dele é " + cr7 + ", ele tem " + champions)
+    print(" titúlos de Champios League e ele tem " + altura + " de altura ")
+    
+    var laPulga = " Lionel Messi"
+    var champios = 4 
+    var alturaDele = 1.02 
+    
+    print("O nome dele é $laPulga, ele tem $champios títulod de champios,e ele tem apenas $alturaDele de altura")
+    *//*
+    
+    var nome = "Miguel Lima"
+    var altura = 1.71
+    var idade = 14 
+    var gosto = "Futebol"
+    var estado = "São Paulo"
+    
+    print("Meu nome é " + nome + ", tenho " + altura + " de altura, gosto de " + gosto + ", tenho " + idade + " anos e moro no estado de " + estado )
+    
+   */ 
+    
+    //Opersdores matemáticos
+    //
+    // + => adição
+    // - => subtração
+    // / => divisão
+    // * => multiplicação
+    // % => módulo - o resto de uma divisão
+    
+   //println(15 % 2)
+   //
+   //Operadores relacionais 
+   //
+   //
+   // == => igual a...
+   // != => diferente de...
+   // > => maior que...
+   // < => menor que...
+   // >= -> maior ou igual a...
+   // <= -> menor ou igual a...
+    
+    
+    
+    
+    
+    
+     }
