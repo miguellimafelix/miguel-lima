@@ -153,3 +153,68 @@ fun main(){
     
     
      }
+//--------------------------------------------------------------------------------------------------------------
+fun main(){
+
+  //Operadores Logicos
+  //
+  //são usados quando queremos comparar mais de uma coisa na mesma condição
+  //
+  //&& -> e (shift + & )
+  //|| -> ou (shift + barra invertida)
+  //
+  //TABELA VERDADE ( com E e OU )
+  //
+  //&& - a determinada ação só acontecerá se e somente se todas as
+  // condições forem verdadeiras   
+  //
+  //VV -> verdadeiro
+  //VF -> falso
+  //FV -> falso
+  //FF -> falso
+  //
+  //|| - a determinada ação será executada se pelo menos uma das 
+  //condições forem verdadeiros 
+  //
+  //VV -> verdadeiro
+  //VF -> verdadeiro
+  //FV -> verdadeiro
+  //FF -> falso
+  //
+/*
+  var idae = 14  
+  var acompanhadoDosPais = false
+    
+    
+  if( idae >= 14 && acompanhadoDosPais == true ){
+      println("Pode entrar, curte ae")
+  }else{
+      println("a entrada não permitida para vacê")
+  }
+  
+*/
+
+var brasilGanhar = true
+var alemanhaGanhar = true
+    
+if ( brasilGanhar >= true  && alemanhaGanhar == false ){
+    println("Brasil ganhou e se classificou ")
+}else{
+    println("Alemanha ganhou e o Brasil foi desclassificado")
+}	
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
