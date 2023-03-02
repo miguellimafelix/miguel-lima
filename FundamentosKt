@@ -256,3 +256,146 @@ fun main(){
 
 
 }
+//-------------------------------------------------------------------------------------------------------
+fun main(){
+   
+/*
+    //When - Quando
+    //
+    //Quando uma determinada condição for verdadeira, outra determinada
+    //ação será executada
+    //
+    //Estrutura do When:
+    //
+    //When(var){
+    //valor -> ação a ser executada
+    //outroValor -> ação 
+    //maisUm -> ação
+    //outro -> ação
+    //else - > ação 
+    //}
+  var mes = 2
+    
+    when(mes){
+        1 -> println("Acapulco - MEX")
+        2 -> println("Paris - FRA")
+        3 -> println("Berlim - ALE")
+        4 -> println("Monaco - MON")
+        5 -> println("Pequim - CHI")
+        6 -> println("Acre - BRA")
+        7 -> println("Roma - ITA")
+        8 -> println("Atenas - GRE")
+        9 -> println("Madrid - ESP")
+        10 -> println("Manchester - ING")
+        11 -> println("Dubai - EAE")
+        else -> println("São Paulo - BRA")
+        
+    }
+*/
+
+   //Laços de Repetição 
+   //
+   //while - enquanto 
+   //for - para..
+   //do..while faça.. enquato
+   //repeat - repita
+   
+   //Laço While
+   //enquanto uma determinada condição for verdadeira, outra determinada
+   //açãoo será executada
+   //
+   //Esrtrutura do While
+   //
+   //while(condição)
+   //ação 
+   //}
+/*
+  var idade = 1 
+    
+    
+    while(idade <= 17){
+        println("$idade ano? Cresça, sério")
+        idade++
+    }
+        println(" Divirta-se, você chegou até aqui, você merece")
+    
+}
+    */    
+ 
+    
+    //Laçço do.. While
+    //
+    //Uma seetrminada ação será executada, enquanto outra determinada condição for
+    //verdadeira
+    //
+    //Estrutura do do..While
+    //
+    //do{
+    //ação
+    //} while(condição)
+    /*
+   var idade = 1
+    
+    do{
+        println("$idade ano? Cresça, sério")
+        idade++ 
+    }while(idade > 17)    
+    
+    */
+    //Exercício -> o ano não é bissexto, portanto o ano possui 365 dias, precisa ser np console os números de 1 a 365, usando no mínimo uma varíavel, usando
+    //os laços whilee e do..while
+    //
+    //Dirvirta-s
+ 
+    /*
+    var dias = 1
+    
+    do{
+        println("$dias dia do ano")
+        dias++
+    }while(dias < 365)
+        
+    */
+    
+    
+    
+    
+    var dias = 1 
+    
+    
+    while(dias <= 365){
+        println("$dias dia do ano")
+        dias++
+    }
+        
+    
+}
+    
+    
+    
+    
+    
+     
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
