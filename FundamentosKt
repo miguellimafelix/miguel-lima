@@ -454,7 +454,99 @@ for (item in 1..1 ){
 }
 
 
+//-----------------------------------------------------------------------------------------------------------------
+fun main(){
+   
+//Collrctions - Coleções
+//
+//<> --> tags - servem para especificar o tipo de valor a ser listado 
+//
+//São determinados confutos de item/valores que podem ser modelados e utilizados em determinados métodos e operação
+//
+//List - Listas
+//
+//ListOf --> listam item de variados tipos
+// 
 
+var genericList = mutableListOf("São Paulo arroz e pamanha", 25.7f, 23.974, '$', false)
+   //rintln(genericList)
+var specificList = listOf<String>("Cruzeiro do Roberto Carlos", "Calleri", "5")
+    println(specificList)
+
+
+   
+  //Index - uma posição da collection
+    
+    
+    //Propriendades - list
+    //
+    //.lastIndex
+    //
+    //println(specificList.lastIdex)
+   //println(specificList.first())
+ //println(specificList.size)
+ //
+ //println(specificList[0])
+   
+   //métodos- listOf
+   /*
+   genericList.add(2,"easy")
+   println(genericList)
+   genericList.remove(23.974)
+   println(genericList)
+   genericList.removeAt(3)
+   println(genericList )
+   genericList.set(0, "tartaruga")
+   println(genericList)
+   genericList.clear()
+    println(genericList)
+    */
+   var anotherList = setOf("pedro", "diniz", "pele", "ronadinho", "marilia mendoza", "diniz")
+   println(anotherList)
+   
+   var animal = mutableMaof("tertaruga" to 0, "jabuti" to 1, "A
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+}
 
 
 
