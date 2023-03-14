@@ -547,7 +547,92 @@ var specificList = listOf<String>("Cruzeiro do Roberto Carlos", "Calleri", "5")
    
    
 }
+//----------------------------------------------------------------------------------------------
+fun main(){
+   
 
+  /* var animal = mutableMapOf("tertaruga" to 0, "jabuti" to 1, "tucano" to 10 , "hiena" to 3, "mamaco" to 4)
+   println(animal)
+   
+   animal.put("capiva incrivel 0", 5)
+   println(animal)
+   animal.put("leopardo", 9)
+   println(animal)
+   animal.replace("tatu", 3)*/
+   
+                          
+   //POO
+   //
+   //Programação Orientada a Objetos
+   //
+   //Objetos - estados (características: nome, idade, cpf)
+   //
+   //Comportamentos - (andar, comer, dormir, conversar, programar)
+   //
+   //Classes - modelos que servem para construção de objetos derivados
+   // 
+    /*
+   val pessoa1 = Pessoa()
+   pessoa1.nome = "Keyla"
+   println(pessoa1.nome)
+   pessoa1.cpf = "445.177.465.78"
+   println(pessoa1.cpf)
+   */
+   
+  println("::*--------------------------------------Ficha Médica------------------------*::")
+   
+   val paciente = Paciente
+    paciente.nome = "Iago Lima Felix"
+}/*
+class Pessoa(){
+       //declaração de atributos para a classe Pessoa
+       var nome = ""
+       var cpf = ""
+       var idade = 99 
+       var altura = 1.74*/
+   
+   class Paciente(){
+       var nome = ""
+       var idade = ""
+       var coração = "saudavel"
+       var tipoSangue = "A+"
+       var diabete = "Negativo"
+       var aids = "Negativo"
+       var hiv = "Negativo"
+       
+       
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   }
 
 
 
