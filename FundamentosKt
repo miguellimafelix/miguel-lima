@@ -736,6 +736,67 @@ class Pessoa(){
    
    
    }
+fun main(){
+    /*
+    var jogador1 = JogadorDeFutebol("Neymar JR", "PSG", 10, "Brasil", "Puma", "Meia-Atacante", 222.0)
+    
+    println(jogador1.nome )
+    println(jogador1.time )
+    println(jogador1.numero )
+    println(jogador1.naciolidade )
+    println(jogador1.patrocinio )
+    println(jogador1.posicao )
+    println(jogador1.preco )
+    */
+    
+   println("--------------------------------Apresintando o Primeira Jogador-----------------------------------") 
+    
+  var jogador1 = Jogador2("Cristiano Rolnado", "Porta esquerda", 7)
+  
+  	println(jogador1.nome)
+    println(jogador1.posicao)
+    println(jogador1.numero)
+    
+ var jogador2 = Jogador2("Benzema", "Atacante", 29)
+  
+  	println(jogador2.nome)
+    println(jogador2.posicao)
+    println(jogador2.numero)
+    
+ var jogador3 = Jogador2("Bale", "Ponta direita", 11)
+  
+  	println(jogador3.nome)
+    println(jogador3.posicao)
+    println(jogador3.numero)
+    
+  var jogador4 = Jogador2("Kroos", "Meia central", 8)
+  
+  	println(jogador4.nome)
+    println(jogador4.posicao)
+    println(jogador4.numero) 
+    
+   var jogador5 = Jogador2("Modric", "Meia central", 10)
+  
+  	println(jogador5.nome)
+    println(jogador5.posicao)
+    println(jogador5.numero)  
+     }
+/*class JogadorDeFutebol(var nome: String,
+                      var time: String,
+                      var numero: Int,
+                      var naciolidade: String,
+                      var patrocinio: String,
+                      var posicao: String,
+                      var preco: Double){**/
+                      
+  class Jogador2 (var nome: String,
+                        var posicao: String,
+                        var numero: Int ){                    
+   
+   
+    
+   
 
+}
 
 
