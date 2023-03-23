@@ -798,5 +798,128 @@ fun main(){
    
 
 }
+fun main(){
+    /*
+    println("=============================Escalação do Real Madrid=================================")
+   println("--------------------------------Apresintando Jogador-----------------------------------") 
+    
+  var jogador1 = Jogador2("Cristiano Rolnado", "Porta esquerda", 7)
+  
+  	println(jogador1.nome)
+    println(jogador1.posicao)
+    println(jogador1.numero)
+    
+      println("--------------------------------Apresintando Jogador-----------------------------------")
+    
+ var jogador2 = Jogador2("Benzema", "Atacante", 29)
+  
+  	println(jogador2.nome)
+    println(jogador2.posicao)
+    println(jogador2.numero)
+    
+      println("--------------------------------Apresintando Jogador-----------------------------------")
+    
+ var jogador3 = Jogador2("Bale", "Ponta direita", 11)
+  
+  	println(jogador3.nome)
+    println(jogador3.posicao)
+    println(jogador3.numero)
+    
+      println("--------------------------------Apresintando Jogador-----------------------------------")
+    
+  var jogador4 = Jogador2("Kroos", "Meia central", 8)
+  
+  	println(jogador4.nome)
+    println(jogador4.posicao)
+    println(jogador4.numero) 
+    
+      println("--------------------------------Apresintando Jogador-----------------------------------")
+    
+   var jogador5 = Jogador2("Modric", "Meia central", 10)
+  
+  	println(jogador5.nome)
+    println(jogador5.posicao)
+    println(jogador5.numero)  
+    
+      
+   println("--------------------------------Apresintando Jogador-----------------------------------") 
+    
+  var jogador6 = Jogador2("Casemiro", "Volante", 14)
+  
+  	println(jogador6.nome)
+    println(jogador6.posicao)
+    println(jogador6.numero)
+    
+    
+      
+   println("--------------------------------Apresintando Jogador-----------------------------------") 
+    
+  var jogador7 = Jogador2("Marcelo", "Lateral esquerda", 12)
+  
+  	println(jogador7.nome)
+    println(jogador7.posicao)
+    println(jogador7.numero)
 
+      
+   println("--------------------------------Apresintando Jogador-----------------------------------") 
+    
+  var jogador8 = Jogador2("Segio Ramos", "Zagueiro", 4)
+  
+  	println(jogador8.nome)
+    println(jogador8.posicao)
+    println(jogador8.numero)
+    
+     println("--------------------------------Apresintando Jogador-----------------------------------") 
+    
+  var jogador9 = Jogador2("Pepe", "Zagueiro", 3)
+  
+  	println(jogador9.nome)
+    println(jogador9.posicao)
+    println(jogador9.numero)
+    
+     println("--------------------------------Apresintando Jogador-----------------------------------") 
+    
+  var jogador10 = Jogador2("Carvajal", "Lateral direito", 2)
+  
+  	println(jogador10.nome)
+    println(jogador10.posicao)
+    println(jogador10.numero)
+    
+     println("--------------------------------Apresintando Jogador-----------------------------------") 
+    
+  var jogador11 = Jogador2("Navas", "Goleiro", 1)
+  
+  	println(jogador11.nome)
+    println(jogador11.posicao)
+    println(jogador11.numero)
+     7*/
+    
+    
+    
+    
+    //Métodos/funções - são um que representem uma determinada atividade de um determinado objeto
+    //
+    //Estretura de um método do Kotlin
+    //
+    //fun nomeDela (parametros - se tiver){
+    //ação
+    //}
+    //
+    //
+    //var nomeDoObjeto = ClasseDele()
+    //
+    //nomeDoObjeto.nomeDela(parâmetros)
+    
+     }
+
+                      
+  class Jogador2 (var nome: String,
+                        var posicao: String,
+                        var numero: Int ){                    
+   
+   
+   
+   
+
+}
 
